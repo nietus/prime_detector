@@ -1,2 +1,5 @@
-# prime_detector
-Script to detect a big range of prime numbers
+```console
+git clone https://github.com/nietus/prime_detector
+pip install termcolor
+python3 prime_detector/prime.py
+```
